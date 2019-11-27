@@ -1,17 +1,17 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountHierarchy", "AccountHierarchy\AccountHierarchy.csproj", "{A75DB8CE-E7C4-41CB-B509-FFC71C44B651}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1AccountHierarchy", "AccountHierarchy\1AccountHierarchy.csproj", "{A75DB8CE-E7C4-41CB-B509-FFC71C44B651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Averages", "Averages\Averages.csproj", "{805755CB-26D9-4CCA-AB3B-F497E66A9E5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Averages", "Averages\4Averages.csproj", "{805755CB-26D9-4CCA-AB3B-F497E66A9E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Housing", "Housing\Housing.csproj", "{0EDCCEF0-FC8B-4E5C-B98C-181960289987}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Housing", "Housing\2Housing.csproj", "{0EDCCEF0-FC8B-4E5C-B98C-181960289987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeHierarchy", "ShapeHierarchy\ShapeHierarchy.csproj", "{3B1BBAF2-BAE5-43AE-8910-2017F0FF42D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3ShapeHierarchy", "ShapeHierarchy\3ShapeHierarchy.csproj", "{3B1BBAF2-BAE5-43AE-8910-2017F0FF42D6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{FDE9839E-F4E0-4AD1-990B-F017FD1E22FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoThreeCalc", "TwoThreeCalc\TwoThreeCalc.csproj", "{463253EE-77D6-4D33-BA29-9A9568F96F2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5TwoThreeCalc", "TwoThreeCalc\5TwoThreeCalc.csproj", "{463253EE-77D6-4D33-BA29-9A9568F96F2A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Assignments.Tests.Library", "CSharp.Assignments.Tests.Library\CSharp.Assignments.Tests.Library.csproj", "{F0E5E95E-A022-466B-93CA-6BABCDE8B603}"
 EndProject
