@@ -1,6 +1,6 @@
 # ISAM 5430 C# Object-Oriented Programming Assignments
 
-This is an Object-Oriented Programming (OOP) practice assignment that allows you to practice on the four principles of object-oriented programming:
+This is an Object-Oriented Programming (OOP) practice assignment, allowing you to practice applying the four principles of object-oriented programming, as follows:
 
 1. **Encapsulation**: hiding data and implementations through the use of private/protected/internal access modifiers.
 2. **Inheritance**: allowing classes to be inherited from another class, forming a class hierarchy.
@@ -8,11 +8,11 @@ This is an Object-Oriented Programming (OOP) practice assignment that allows you
 4. **Polymorphism**: enabling instances of classes or objects to declare as another type (e.g. an interface or a base class). This can reduce the number of messy if-statements.
 
 # Problems
-Each problem is a console application project based on .NET Core 2.1. Each project contains a pdf file, which describes the problem. Based on the description, you are to modify the specific class file (e.g., Account.cs should only contain ccodes for the Account class)
+Each problem is a console application project based on .NET Core 2.1. It includes a pdf file, describing what you need to do for the problem. Based on the description, you are to modify specific class files. For instance, when it asks you to create an Account class, you are to add your codes into the Account.cs file in order to satisfy the requirements in the PDF file.
 
-Each problem includes dependencies to nunit framework, which contains codes that verify your class structures correctly. In addition, some blackbox tests are also provided in the unit tests. All unit tests are located in the Tests folder within the corresponding project.
+Through a dependency to nunit, each project contains a Tests folder with some unit test classes. These classes may encompass codes that verify correct class structures in addition to blackbox testing.
 
-Each problem has a Program Main method as an entry-point of the console application. You should be creating Main routines that can allow you to create instances of the classes you've created. You'll learn more about Abstraction and Polymorphism by using your own classes better by doing this way.
+Finally, each project includes a Program class with a static Main method, which is the entry-point to the console application. You should be adding Main routines, allowing you to instantiate the classes you've created. This way, you'll be able to acknowledge how Abstraction and Polymorphism work through the creation of your own classes.
 
 ## Account Hierarchy
 This is the first problem you should be working on. It should be relatively straightforward, as you only need to create one abstract class and two derived classes.
