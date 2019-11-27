@@ -2,10 +2,10 @@
 
 This is an Object-Oriented Programming (OOP) practice assignment, allowing you to practice applying the four principles of object-oriented programming, as follows:
 
-1. **Encapsulation**: hiding data and implementations through the use of private/protected/internal access modifiers.
-2. **Inheritance**: allowing classes to be inherited from another class, forming a class hierarchy.
-3. **Abstraction**: working towards coding by contracts and interfaces rather than implementations.
-4. **Polymorphism**: enabling instances of classes or objects to declare as another type (e.g. an interface or a base class). This can reduce the number of messy if-statements.
+1. **Encapsulation**: hide data and implementations through the use of private/protected/internal access modifiers.
+2. **Inheritance**: allow classes to extend base/another class to form a class hierarchy.
+3. **Abstraction**: work towards coding by contracts and interfaces rather than implementations.
+4. **Polymorphism**: enabling instances of classes or objects to declare as another type (e.g. an interface or a base class). This can potentially reduce the number of messy if-statements and unnecessary contracts.
 
 # Problems
 Each problem is a console application project based on .NET Core 2.1. It includes a pdf file, describing what you need to do for the problem. Based on the description, you are to modify specific class files. For instance, when it asks you to create an Account class, you are to add your codes into the Account.cs file in order to satisfy the requirements in the PDF file.
